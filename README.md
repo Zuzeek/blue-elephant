@@ -72,8 +72,10 @@ The frontend will be running on `http://localhost:3000`.
 
 The backend provides the following endpoints:
 
-- `GET /api/generate-name`: Generates a random name.
-- `GET /api/generate-email`: Generates a random email address.
+- `GET /api/name`: Generates a random name.
+- `GET /api/email`: Generates a random email address.
+- `GET /api/animnal`: Generates a random animal.
+- `GET /api/combo`: Generates a random words combo.
 
 You can use these endpoints in the frontend to fetch random names and emails.
 
