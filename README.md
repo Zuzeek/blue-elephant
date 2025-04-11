@@ -1,4 +1,4 @@
-# Random Name and Email Generator
+# Random Generator
 
 This project is a simple application that generates random names and email addresses. It consists of a Node.js backend and a React frontend.
 
